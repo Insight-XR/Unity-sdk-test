@@ -15,7 +15,6 @@
       "com.unity.xr.management": "4.4.1",
       "com.unity.textmeshpro": "3.0.6",
       "com.unity.nuget.newtonsoft-json": "3.2.1",
-      "com.unity.editorcoroutines": "1.0.0",
-      "com.github-glitchenzo.nugetforunity": "https://github.com/GlitchEnzo/NuGetForUnity.git?path=/src/NuGetForUnity"
+      "com.unity.editorcoroutines": "1.0.0"
     }
   }
