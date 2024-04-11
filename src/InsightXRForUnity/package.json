@@ -1,0 +1,20 @@
+{
+    "name": "com.getinsightxr.unity-sdk",
+    "version": "1.0.0",
+    "displayName": "InsightXR Unity SDK",
+    "description": "InsightXR Unity SDK for analytics and XR development",
+    "unity": "2021.3",
+    "author": {
+      "name": "Insight XR",
+      "email": "support@getinsightxr.com",
+      "url": "https://getinsightxr.com"
+    },
+    "dependencies": {
+      "com.unity.xr.core-utils": "2.2.3",
+      "com.unity.xr.interaction.toolkit": "2.5.3",
+      "com.unity.xr.management": "4.4.1",
+      "com.unity.textmeshpro": "3.0.6",
+      "com.unity.nuget.newtonsoft-json": "3.2.1",
+      "com.unity.editorcoroutines": "1.0.0"
+    }
+  }
