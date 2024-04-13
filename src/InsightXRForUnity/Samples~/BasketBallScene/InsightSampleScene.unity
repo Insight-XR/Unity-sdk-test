@@ -7104,12 +7104,12 @@ PrefabInstance:
         type: 3}
       propertyPath: Lefthand
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 3551513460942586663}
     - target: {fileID: 5614644653849769592, guid: 988358f111e06bb4aaeb3647e9d87833,
         type: 3}
       propertyPath: RightHand
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 3551513460942586662}
     - target: {fileID: 5614644653849769592, guid: 988358f111e06bb4aaeb3647e9d87833,
         type: 3}
       propertyPath: CustomerID
