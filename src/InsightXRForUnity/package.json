@@ -14,14 +14,28 @@
       "com.unity.xr.interaction.toolkit": "2.5.3",
       "com.unity.xr.management": "4.4.1",
       "com.unity.textmeshpro": "3.0.6",
-      "com.unity.nuget.newtonsoft-json": "3.2.1",
       "com.unity.editorcoroutines": "1.0.0"
     },
     "samples": [
       {
-          "displayName": "BasketBall Game",
+          "displayName": "Demo BasketBall Scene",
           "description": "Contains sample scene with template setup for a basketball game.",
           "path": "Samples~/BasketBallScene"
-      }
+      },
+      {
+        "displayName": "Demo Ultimate XR Scene",
+        "description": "Uses UltimateXR's Open Scene as the base with template setup",
+        "path": "Samples~/Ultimate XR Open Scene"
+      },
+      {
+       "displayName": "Demo Car Configuration",
+       "description": "A Car Customisation Scene optimised to be used with SDK",
+       "path": "Samples~/Car Configurator"
+    },
+    {
+      "displayName": "Demo XR interaction",
+      "description": "Integrated SDK into the XR Interaction Toolkit Sample Open Scene",
+      "path": "Samples~/XRIT"
+   }
   ]
   }
