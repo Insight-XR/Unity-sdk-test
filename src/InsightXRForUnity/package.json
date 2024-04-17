@@ -14,7 +14,13 @@
       "com.unity.xr.interaction.toolkit": "2.5.3",
       "com.unity.xr.management": "4.4.1",
       "com.unity.textmeshpro": "3.0.6",
-      "com.unity.editorcoroutines": "1.0.0"
+      "com.unity.editorcoroutines": "1.0.0",
+      "org.khronos.unitygltf": "https://github.com/KhronosGroup/UnityGLTF.git",
+      "com.unity.nuget.newtonsoft-json": "2.0.0",
+      "com.unity.modules.imageconversion": "1.0.0",
+      "com.unity.shadergraph": "10.0.0",
+      "com.unity.mathematics": "1.0.0"
+      
     },
     "samples": [
       {
