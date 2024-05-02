@@ -145,7 +145,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &42464956 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6266401344679721777, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -168,7 +167,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &54832778 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6266401344679721813, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -191,7 +189,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &89410775
 GameObject:
   m_ObjectHideFlags: 0
@@ -342,7 +339,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &93408418 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4498541209555109121, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -365,7 +361,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &108678313
 GameObject:
   m_ObjectHideFlags: 0
@@ -516,7 +511,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &118574149 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4938605150143553085, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -545,7 +539,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &158682834
 GameObject:
   m_ObjectHideFlags: 0
@@ -616,7 +609,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &162076615 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7826324823070394598, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -639,7 +631,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &188383934 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7826324823070394516, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -662,7 +653,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &197305352
 GameObject:
   m_ObjectHideFlags: 0
@@ -748,7 +738,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &204872982
 GameObject:
   m_ObjectHideFlags: 0
@@ -872,7 +861,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &209686609 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8074961326794426446, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -895,7 +883,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &224551190 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4498541209555109235, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -918,7 +905,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &232251213 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4498541209555109223, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -941,7 +927,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &282129663 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7826324823070394594, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -964,7 +949,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &306820569 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4498541209555109245, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -987,7 +971,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &324228786 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8074961326794426450, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -1010,7 +993,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &336790814 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6266401344679721809, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -1033,7 +1015,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &344124886 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8074961326794426452, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -1056,7 +1037,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &345683552 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8074961326794426460, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -1079,7 +1059,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &363981961 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8074961326794426434, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -1102,7 +1081,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &379095403 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2802230575958880109, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -1125,7 +1103,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &400961401
 GameObject:
   m_ObjectHideFlags: 0
@@ -1276,7 +1253,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &406398276 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7826324823070394602, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -1299,7 +1275,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &415315675
 GameObject:
   m_ObjectHideFlags: 0
@@ -1339,7 +1314,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!114 &415315677
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1677,7 +1651,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &439009717 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4498541209555109143, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -1700,7 +1673,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &465758853 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6266401344679721781, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -1723,7 +1695,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &471703496
 GameObject:
   m_ObjectHideFlags: 0
@@ -1859,7 +1830,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &474570873 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7826324823070394596, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -1882,7 +1852,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &489812601 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4498541209555109217, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -1905,7 +1874,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &511638052 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7826324823070394500, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -1928,7 +1896,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &524570922 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7826324823070394620, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -1951,7 +1918,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &524943377 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4498541209555109129, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -1974,7 +1940,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &543772612
 GameObject:
   m_ObjectHideFlags: 0
@@ -2125,7 +2090,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &545028687 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8074961326794426440, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -2148,7 +2112,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &547513492 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7826324823070394518, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -2171,7 +2134,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &552813229 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4498541209555109233, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -2194,7 +2156,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &567251098 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1341403374422643210, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -2217,7 +2178,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &620419850 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6266401344679721821, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -2240,7 +2200,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &622254132 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4498541209555109131, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -2263,7 +2222,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &624342868
 GameObject:
   m_ObjectHideFlags: 0
@@ -2399,7 +2357,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &626163957 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6266401344679721785, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -2422,7 +2379,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &631133093 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7826324823070394502, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -2445,7 +2401,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &631248641
 GameObject:
   m_ObjectHideFlags: 0
@@ -2596,7 +2551,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &639713744 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8074961326794426422, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -2619,7 +2573,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &644306013 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8074961326794426430, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -2642,7 +2595,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &651025751 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6266401344679721797, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -2665,7 +2617,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &651279840 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8074961326794426438, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -2688,7 +2639,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &673075922 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6266401344679721761, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -2711,7 +2661,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &814114169
 GameObject:
   m_ObjectHideFlags: 0
@@ -2862,7 +2811,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &834997348 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4498541209555109147, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -2885,7 +2833,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &850101805 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4498541209555109135, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -2908,7 +2855,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &869152540
 GameObject:
   m_ObjectHideFlags: 0
@@ -2979,7 +2925,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &870550813 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6266401344679721791, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -3002,7 +2947,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &872649581
 GameObject:
   m_ObjectHideFlags: 0
@@ -3042,7 +2986,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!114 &872649583
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3380,7 +3323,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &884246602 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4498541209555109139, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -3403,7 +3345,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &920320502
 GameObject:
   m_ObjectHideFlags: 0
@@ -3474,7 +3415,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &928226329 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7826324823070394526, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -3497,7 +3437,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &942030019 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4498541209555109237, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -3520,7 +3459,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &945284823 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6266401344679721765, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -3543,7 +3481,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &974711508 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7826324823070394612, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -3566,7 +3503,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &988494346 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8074961326794426420, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -3589,7 +3525,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &989347694 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8074961326794426416, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -3612,7 +3547,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &996308127 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4498541209555109133, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -3635,7 +3569,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &998256601 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8074961326794426424, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -3658,7 +3591,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1008409767 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6266401344679721771, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -3681,7 +3613,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1023135655 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6266401344679721823, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -3704,7 +3635,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1040602007 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4498541209555109247, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -3727,7 +3657,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1052680866 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4498541209555109145, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -3750,7 +3679,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1078240473 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6266401344679721819, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -3773,7 +3701,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1094087267 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6266401344679721799, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -3796,7 +3723,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1100151436 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7826324823070394592, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -3819,7 +3745,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1118764026 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4498541209555109243, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -3842,7 +3767,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1139725995 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7826324823070394600, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -3865,7 +3789,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1162286368 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6266401344679721795, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -3888,7 +3811,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1173606389 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7826324823070394514, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -3911,7 +3833,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1179374862 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4498541209555109221, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -3934,7 +3855,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1204382607 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7826324823070394604, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -3957,7 +3877,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1219862006 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8074961326794426402, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -3980,7 +3899,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1222228704 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7826324823070394618, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -4003,7 +3921,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1239125257
 GameObject:
   m_ObjectHideFlags: 0
@@ -4154,7 +4071,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1244840243 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6266401344679721789, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -4177,7 +4093,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1251247977 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4498541209555109123, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -4200,7 +4115,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1256642641 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7826324823070394610, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -4223,7 +4137,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1269132823 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7826324823070394520, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -4246,7 +4159,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1283759442 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6266401344679721763, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -4269,7 +4181,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1289900384
 GameObject:
   m_ObjectHideFlags: 0
@@ -4420,7 +4331,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1294745090 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6266401344679721793, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -4443,7 +4353,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1295135328 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8074961326794426400, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -4466,7 +4375,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1305802496 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6266401344679721787, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -4489,7 +4397,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1323145805 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8074961326794426404, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -4512,7 +4419,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1332569574 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7826324823070394608, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -4535,7 +4441,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1347229380 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1943338307532282273, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -4558,7 +4463,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1433038992 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8074961326794426454, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -4581,7 +4485,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1457275506 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8074961326794426432, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -4604,7 +4507,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1474726194 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7826324823070394512, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -4627,7 +4529,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1494635632 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8074961326794426456, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -4650,7 +4551,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1498424079 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4498541209555109125, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -4673,7 +4573,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1522190708
 GameObject:
   m_ObjectHideFlags: 0
@@ -4737,7 +4636,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1529791078
 GameObject:
   m_ObjectHideFlags: 0
@@ -4808,7 +4706,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1535388958 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8074961326794426442, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -4831,7 +4728,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1543850569 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8074961326794426406, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -4854,7 +4750,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1565682343 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7826324823070394524, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -4877,7 +4772,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1578269226 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7826324823070394622, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -4900,7 +4794,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1602516786 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4498541209555109149, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -4923,7 +4816,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1606011620 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7826324823070394616, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -4946,7 +4838,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1625264439 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8074961326794426428, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -4969,7 +4860,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1629544370 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6266401344679721815, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -4992,7 +4882,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1651070251 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6266401344679721817, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -5015,7 +4904,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1655082474 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7826324823070394498, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -5038,7 +4926,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1656649313
 GameObject:
   m_ObjectHideFlags: 0
@@ -5189,7 +5076,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1726683173 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4498541209555109141, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -5212,7 +5098,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1738451604 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4498541209555109239, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -5235,7 +5120,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1744923931 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6266401344679721779, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -5258,7 +5142,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1761685571 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8074961326794426426, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -5281,7 +5164,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1795741321 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4498541209555109241, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -5304,7 +5186,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1838615933 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6266401344679721769, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -5327,7 +5208,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1844266093 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8074961326794426458, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -5350,7 +5230,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1873264830 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8074961326794426444, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -5373,7 +5252,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1893489504 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7826324823070394522, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -5396,7 +5274,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1897138473 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6266401344679721811, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -5419,7 +5296,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1899919163 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4498541209555109127, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -5442,7 +5318,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1921244175 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8074961326794426462, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -5465,7 +5340,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &1954292006 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7826324823070394606, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -5488,7 +5362,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &2006322470 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7826324823070394614, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -5511,7 +5384,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &2007116724 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8074961326794426436, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -5534,7 +5406,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &2010892940 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7826324823070394496, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -5557,7 +5428,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &2014131580 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8074961326794426448, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -5580,7 +5450,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &2018549272 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1564463574871612800, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -5603,7 +5472,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &2027933696 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4498541209555109219, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -5626,7 +5494,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &2065117266
 GameObject:
   m_ObjectHideFlags: 0
@@ -5777,7 +5644,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!114 &2067096876 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 3546903442018462896, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -5940,7 +5806,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &2100774124 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6266401344679721775, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -5963,7 +5828,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &2107331886
 GameObject:
   m_ObjectHideFlags: 0
@@ -6114,7 +5978,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &2115608660
 GameObject:
   m_ObjectHideFlags: 0
@@ -6165,7 +6028,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &2136247984 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4498541209555109137, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -6188,7 +6050,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &2139149589 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6266401344679721767, guid: 988358f111e06bb4aaeb3647e9d87833,
@@ -6211,7 +6072,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!33 &167047414735126447
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -6604,7 +6464,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!33 &3045038608601837031
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -6646,7 +6505,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!33 &3469287837944420572
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -6920,7 +6778,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!33 &3477942432839678283
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -7035,32 +6892,32 @@ PrefabInstance:
     - target: {fileID: 4501701366002042223, guid: 988358f111e06bb4aaeb3647e9d87833,
         type: 3}
       propertyPath: bucketName
-      value: sessions-3d-data
+      value: REDACTED
       objectReference: {fileID: 0}
     - target: {fileID: 4501701366002042223, guid: 988358f111e06bb4aaeb3647e9d87833,
         type: 3}
       propertyPath: awsAccessKeyId
-      value: AKIAXQOF2EHXGTEWCCFE
+      value: REDACTED
       objectReference: {fileID: 0}
     - target: {fileID: 4501701366002042223, guid: 988358f111e06bb4aaeb3647e9d87833,
         type: 3}
       propertyPath: awsSecretAccessKey
-      value: rs4qzkKw+9M7B4+ZvTClRo4btiWeDdlBP3kB3AtF
+      value: REDACTED
       objectReference: {fileID: 0}
     - target: {fileID: 5614644653849769592, guid: 988358f111e06bb4aaeb3647e9d87833,
         type: 3}
       propertyPath: APIKEY
-      value: 58ad17a83aaf18d192dde25e74636f0ebf4914948dad246eb0480ee0dc6527bd
+      value: REDACTED
       objectReference: {fileID: 0}
     - target: {fileID: 5614644653849769592, guid: 988358f111e06bb4aaeb3647e9d87833,
         type: 3}
       propertyPath: UserID
-      value: BasketBallSimulator
+      value: REDACTED
       objectReference: {fileID: 0}
     - target: {fileID: 5614644653849769592, guid: 988358f111e06bb4aaeb3647e9d87833,
         type: 3}
       propertyPath: replay
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5614644653849769592, guid: 988358f111e06bb4aaeb3647e9d87833,
         type: 3}
@@ -7075,7 +6932,7 @@ PrefabInstance:
     - target: {fileID: 5614644653849769592, guid: 988358f111e06bb4aaeb3647e9d87833,
         type: 3}
       propertyPath: CustomerID
-      value: f30a0a6a-e8fe-43be-a7e2-23593abdf0f4
+      value: REDACTED
       objectReference: {fileID: 0}
     - target: {fileID: 5614644653849769592, guid: 988358f111e06bb4aaeb3647e9d87833,
         type: 3}
@@ -8059,7 +7916,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!23 &5274396546963753198
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -8166,7 +8022,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!4 &5462313234095932216
 Transform:
   m_ObjectHideFlags: 0
@@ -8364,7 +8219,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!33 &6455532018849934534
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -8458,7 +8312,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &6521732331137181996
 GameObject:
   m_ObjectHideFlags: 0
@@ -8544,7 +8397,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!33 &6613947650126417891
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -8632,7 +8484,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &7063181440696848038
 GameObject:
   m_ObjectHideFlags: 0
@@ -8733,7 +8584,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &7674469609804346586
 GameObject:
   m_ObjectHideFlags: 0
@@ -8934,7 +8784,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!4 &8800534560875211538
 Transform:
   m_ObjectHideFlags: 0
@@ -9014,7 +8863,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!23 &8900028050448781622
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -9121,7 +8969,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!4 &8904537327976920874
 Transform:
   m_ObjectHideFlags: 0
@@ -9264,7 +9111,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!54 &8904537327976920878
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -9420,7 +9266,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1 &9155131871149247453
 GameObject:
   m_ObjectHideFlags: 0
@@ -9456,7 +9301,6 @@ MonoBehaviour:
     type: 2}
   DistributionChannel: {fileID: 11400000, guid: 20c68f32a92594ae783b61a5e09f9298,
     type: 2}
-  log: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
