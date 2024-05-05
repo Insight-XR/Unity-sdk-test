@@ -3,15 +3,18 @@
 Welcome to the InsightXR Analytics SDK for Unity! This SDK seamlessly integrates into Unity projects, providing users with a unique VR analytics experience. With just a designated API Key, developers can effortlessly incorporate our SDK into their projects. Gain valuable insights into user experiences within virtual reality with our powerful analytics dashboard.  
 
 ## Setting up a VR Project
-
+We have tested the steps throughly with Unity versions 16f1 and 3D URP projects but this shall work with any higher version too.
 - Skip this Section is your VR Project is already setup
-- Go to the Package manager and install the `XR Plugin Management` and `OpenXR` Packages
+- Go to the Package manager and install the `XR Plugin Management` and `OpenXR` Packages. It can be done by following below.
 - Navigate to *File*>*Build Settings*>*Player Settings*:
+  - Go `XR Plugin Management` and press `Install`  
   - Select OpenXR Runtime for both PC and Android platforms
+  - It might ask for a Restart. Click Yes.
   - Tick "Initialize XR on Startup" for testing in the editor
   - Add desired VR headset's interaction profile under PC and Android tabs
   - We are adding `Oculus Touch Controller Profile`
-- Set Compiler to IL2CPP, build mode to arm(64) [Android], and compression to ASTC
+  - Go to `Project Validation`. Click on `Fix all` for both PC and Android tabs. Even after clicking, it might be possible that error still appears. Its known issue. Please don't worry about the same.
+- Set Compiler to IL2CPP, build mode to arm(64) [Android], and compression to ASTC. You can find this in `Player` tab on left and then `Other Settings`
 
 ## Installation
 
@@ -38,7 +41,15 @@ As a Versatile XR framework, we shall be installing and using assets from the XR
         > Select the Package
         > Click on Samples Tab
         > Import Sample Starter Assets
-        > Import Device Simulator
+        > Import XR Device Simulator
+```
+### Step 4: Import Insight XR Samples
+
+```bash
+  Search Package: InsightXR Unity SDK
+        > Select the Package
+        > Click on Samples Tab
+        > Import all samples 
 ```
 For running project without headset, the installed `XR Device Simulator` will be useful. Once done, it can be activated as follows:
 
@@ -52,9 +63,11 @@ For running project without headset, the installed `XR Device Simulator` will be
 
 
 ### Demo Setup:
-- Navigate to "Assets > Samples > InsightXR > <version> > Demo Ultimate XR Scene > SampleScene" for an in-depth look at how the SDK is used. Make sure that sample is imported by going to Window > Package manager > Insight XR > Samples > Demo Ultimate XR Scene
+- Navigate to "Assets > Samples > InsightXR > `<version>` > Demo Ultimate XR Scene > SampleScene" for an in-depth look at how the SDK is used. Make sure that sample is imported by going to Window > Package manager > Insight XR > Samples > Demo Ultimate XR Scene
 - On the Hierarchy, Go to Template Setup > DataHandleLayer. You will find fields such as `[Customer ID, User ID, APIKEY, AWS Access Key, Aws Secret Access Key, Bucket Name]`
-- You can get Customer ID and APIKEY from [Dashboard](https://console.getinsightxr.com/). You can set your User ID yourself. For getting AWS Keys and Bucket Name, ping akshat@getinsightxr.com. We shall start populating these on Dashboard shortly!
+- You can get Customer ID and APIKEY from [Dashboard](https://console.getinsightxr.com/). 
+- - You can set your User ID yourself. 
+- - For getting AWS Keys and Bucket Name, ping akshat@getinsightxr.com. We shall start populating these on Dashboard shortly!
 - On the Template Setup (Explained Below), An example is made for you to understand. This SampleScene also uses the template Setup
 
 <ins>Data Handle Layer</ins>
@@ -63,13 +76,13 @@ For running project without headset, the installed `XR Device Simulator` will be
 |Customer ID| The ID provided to you by the Customer Dashboard|
 |User ID| A Custom User ID you can set to whatever you want to differentiate and identify sessions|
 |API Key| The API provided by the console|
-|Replay Bucket URL| Any public Url that contains a direct link to a save file compatible with the scene. Used to WebGL testing|
+|Replay Bucket URL| Any public Url that contains a direct link to a save file compatible with the scene. Used to WebGL testing. *Can be ignored for now*.|
 
 
 <ins>Network Uploader</ins>
 - `AWS Access Key`, `AWS Secret Access Key`, and `Bucket Name` are to be provided to customers.
 
-**For setting up SDK on your own VR project. Kindly use the setup below.**
+**For setting up SDK on your own VR project. Kindly use the setup below. Else jump to Recording and Viewing section to try out demo scene itself.**
 
 ### Prefabs:
 - Navigate to "Assets > Samples > InsightXR > <version> > Demo Ultimate XR Scene > SampleScene" for an in-depth look at how the SDK is used. Make sure that sample is imported by going to Window > Package manager > Insight XR > Samples > Demo Ultimate XR Scene
